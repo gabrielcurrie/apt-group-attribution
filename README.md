@@ -1,12 +1,12 @@
 # APT Group Attribution
 
-This repository tracks public statements by Governments on the attribution of state-sponsored hacking.
+This repository tracks public statements by Governments on the attribution of state-sponsored hacking incidents or groups.
 
 ## Russia
 
 ### APT28
 
-Also known as Fancy Bear, Sofacy, Pawnstorm, Sednit, STRONTIUM, and Tsar Team.
+_Also known as: Fancy Bear, Sofacy, Pawnstorm, Sednit, STRONTIUM, and Tsar Team._
 
 | Attributing Organisation | Attribution | Date | Source |
 | ------------- | ------------- | ------------- | ------------- |
@@ -18,7 +18,7 @@ Also known as Fancy Bear, Sofacy, Pawnstorm, Sednit, STRONTIUM, and Tsar Team.
 
 ### APT29
 
-Also known as Cozy Bear and the Dukes.
+_Also known as: Cozy Bear and the Dukes._
 
 | Attributing Organisation | Attribution | Date | Source |
 | ------------- | ------------- | ------------- | ------------- |
@@ -29,7 +29,7 @@ Also known as Cozy Bear and the Dukes.
 
 ### Turla
 
-Also known as Snake and Uroburos.
+_Also known as: Snake and Uroburos._
 
 | Attributing Organisation | Attribution | Date | Source |
 | ------------- | ------------- | ------------- | ------------- |
@@ -39,7 +39,7 @@ Also known as Snake and Uroburos.
 
 ### Sandworm
 
-Also known as Sandworm team, BlackEnergy Group, Telebots, and VoodooBear.
+_Also known as: Sandworm team, BlackEnergy Group, Telebots, and VoodooBear._
 
 | Attributing Organisation | Attribution | Date | Source |
 | ------------- | ------------- | ------------- | ------------- |
@@ -49,3 +49,18 @@ Also known as Sandworm team, BlackEnergy Group, Telebots, and VoodooBear.
 | NCSC and UK Foreign & Commonwealth Office | Sandworm is the GRU Main Centre of Special Technologies (GTsST), field post number 74455. Sandworm was responsible for BlackEnergy, Industroyer, NotPetya and BadRabbit. | 20 February 2020 | [gov.uk](https://www.gov.uk/government/news/uk-condemns-russias-gru-over-georgia-cyber-attacks) |
 | NSA | Sandworm is the GRU Main Center for Special Technologies (GTsST), field post number 74455. | 28 May 2020 | [defense.gov](https://media.defense.gov/2020/May/28/2002306626/-1/-1/0/CSA%20Sandworm%20Actors%20Exploiting%20Vulnerability%20in%20Exim%20Transfer%20Agent%2020200528.pdf) |
 | UK Foreign & Commonwealth Office | Sandworm is the GRU. | 16 July 2020 | [ncsc.gov.uk](https://www.ncsc.gov.uk/files/Advisory-APT29-targets-COVID-19-vaccine-development.pdf) |
+
+## China
+
+### APT1
+
+| Attributing Organisation | Attribution | Date | Source |
+| ------------- | ------------- | ------------- | ------------- |
+| US Department of Justice | APT1 is Unit 61398 of the Third Department of the Chinese People’s Liberation Army. | 19 May 2014 | [justice.gov](https://www.justice.gov/usao-wdpa/pr/us-charges-five-chinese-military-hackers-cyber-espionage-against-us-corporations-and) |
+
+### APT10
+
+| Attributing Organisation | Attribution | Date | Source |
+| ------------- | ------------- | ------------- | ------------- |
+| NCSC and UK Foreign & Commonwealth Office | APT10 is linked to the Chinese Ministry of State Security. | 20 December 2018 | [gov.uk](https://www.gov.uk/government/news/uk-and-allies-reveal-global-scale-of-chinese-cyber-campaign) |
+| US Department of Justice | APT10 is Huaying Haitai Science and Technology Development Company (Huaying Haitai) and linked with the Chinese Ministry of State Security’s Tianjin  Bureau. | 20 December 2018 | [justice.gov](https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion) |
