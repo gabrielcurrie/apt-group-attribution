@@ -11,9 +11,9 @@ _Also known as: Fancy Bear, Sofacy, Pawnstorm, Sednit, STRONTIUM, and Tsar Team.
 | Attributing Organisation | Attribution | Date | Source |
 | ------------- | ------------- | ------------- | ------------- |
 | Estonian Foreign Intelligence Service | APT28 is the 6th Directorate of the GRU | 2018 | [valisluureamet.ee](https://www.valisluureamet.ee/pdf/raport-2018-ENG-web.pdf) |
-| US Department of Justice | GRU unit 26165 is located at 22 Kirova Street in Moscow targeted the 2016 US Presidential election. | 13 July 2018 | [justice.gov](https://www.justice.gov/file/1080281/download) |
+| US Department of Justice | GRU unit 26165 is located at 22 Kirova Street in Moscow and targeted the 2016 US Presidential election. | 13 July 2018 | [justice.gov](https://www.justice.gov/file/1080281/download) |
 | NCSC | APT28 is almost certainly the GRU. | 3 October 2018 | [ncsc.gov.uk](https://www.ncsc.gov.uk/news/reckless-campaign-cyber-attacks-russian-military-intelligence-service-exposed) |
-| UK Foreign & Commonwealth Office | APT28 is the GRU military unit 26165. | 4 October 2018 | [gov.uk](https://www.gov.uk/government/speeches/minister-for-europe-statement-attempted-hacking-of-the-opcw-by-russian-military-intelligence) |
+| UK Foreign & Commonwealth Office | APT28 is GRU military unit 26165. | 4 October 2018 | [gov.uk](https://www.gov.uk/government/speeches/minister-for-europe-statement-attempted-hacking-of-the-opcw-by-russian-military-intelligence) |
 | NSA and FBI | APT28 is the GRU 85th Main Special Service Center (GTsSS), military unit 26165. | 13 August 2020 | [defense.gov](https://media.defense.gov/2020/Aug/13/2002476465/-1/-1/0/CSA_DROVORUB_RUSSIAN_GRU_MALWARE_AUG_2020.PDF) |
 
 ### APT29
@@ -49,6 +49,7 @@ _Also known as: Sandworm team, BlackEnergy Group, Telebots, and VoodooBear._
 | NCSC and UK Foreign & Commonwealth Office | Sandworm is the GRU Main Centre of Special Technologies (GTsST), field post number 74455. Sandworm was responsible for BlackEnergy, Industroyer, NotPetya and BadRabbit. | 20 February 2020 | [gov.uk](https://www.gov.uk/government/news/uk-condemns-russias-gru-over-georgia-cyber-attacks) |
 | NSA | Sandworm is the GRU Main Center for Special Technologies (GTsST), field post number 74455. | 28 May 2020 | [defense.gov](https://media.defense.gov/2020/May/28/2002306626/-1/-1/0/CSA%20Sandworm%20Actors%20Exploiting%20Vulnerability%20in%20Exim%20Transfer%20Agent%2020200528.pdf) |
 | UK Foreign & Commonwealth Office | Sandworm is the GRU. | 16 July 2020 | [ncsc.gov.uk](https://www.ncsc.gov.uk/files/Advisory-APT29-targets-COVID-19-vaccine-development.pdf) |
+| European Union | The GRU Main Centre for Special Technologies (GTsST) has an active role in the cyber‐activities undertaken by Sandworm and can be linked to Sandworm. The GTsST is responsible for NotPetya and cyber attacks against the Ukrainian power grid. | 30 July 2020 | [europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R1125&from=EN)
 
 ## China
 
