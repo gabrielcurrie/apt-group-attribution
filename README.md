@@ -50,6 +50,7 @@ _Also known as: Sandworm team, BlackEnergy Group, Telebots, and VoodooBear._
 | NSA | Sandworm is the GRU Main Center for Special Technologies (GTsST), field post number 74455. | 28 May 2020 | [defense.gov](https://media.defense.gov/2020/May/28/2002306626/-1/-1/0/CSA%20Sandworm%20Actors%20Exploiting%20Vulnerability%20in%20Exim%20Transfer%20Agent%2020200528.pdf) |
 | UK Foreign & Commonwealth Office | Sandworm is the GRU. | 16 July 2020 | [ncsc.gov.uk](https://www.ncsc.gov.uk/files/Advisory-APT29-targets-COVID-19-vaccine-development.pdf) |
 | European Union | The GRU Main Centre for Special Technologies (GTsST) has an active role in the cyber‐activities undertaken by Sandworm and can be linked to Sandworm. The GTsST is responsible for NotPetya and cyber attacks against the Ukrainian power grid. | 30 July 2020 | [europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R1125&from=EN)
+| US Department of Justice | Unit 74455 of the GRU is tracked by security researchers as "Sandworm Team", "Telebots", "Voodoo Bear", and "Iron Viking". | 19 October 2020 | [justice.gov](https://www.justice.gov/opa/pr/six-russian-gru-officers-charged-connection-worldwide-deployment-destructive-malware-and) |
 
 ## China
 
