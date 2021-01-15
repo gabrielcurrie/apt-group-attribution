@@ -36,6 +36,8 @@ _Also known as: Snake and Uroburos._
 | Estonian Foreign Intelligence Service | Turla is linked to the FSB's 16th and 18th Centres. | 2018 | [valisluureamet.ee](https://www.valisluureamet.ee/pdf/raport-2019-ENG-web.pdf) |
 | Finnish Foreign Intelligence Service | Turla is linked to the Russian security authorities. | 2019 | [supo.fi](https://www.supo.fi/instancedata/prime_product_julkaisu/intermin/embeds/supowwwstructure/77291_WWW_SUPO_Juhlakirja_70_2019_ENG.pdf?52e507f9e2d6d788) |
 | Estonian Foreign Intelligence Service | Turla is linked to the FSB. | 2019 | [valisluureamet.ee](https://www.valisluureamet.ee/pdf/raport-2019-ENG-web.pdf) |
+| NSA | Turla is is widely reported to be associated with Russian actors. | 18 October 2019 | [media.defense.gov](https://media.defense.gov/2019/Oct/18/2002197242/-1/-1/0/NSA_CSA_TURLA_20191021%20VER%203%20-%20COPY.PDF) |
+| CISA | Turla is is widely reported to be Russian. | 21 October 2019 | [us-cert.cisa.gov](https://us-cert.cisa.gov/ncas/current-activity/2019/10/21/nsa-and-ncsc-release-joint-advisory-turla-group-activity) |
 
 ### Sandworm
 
