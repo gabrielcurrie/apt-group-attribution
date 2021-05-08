@@ -68,15 +68,15 @@ Also known as: Sandworm team, BlackEnergy Group, Telebots, and VoodooBear.
 
 | Attributing Country | Attributing Organisation | Attribution | Date | Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| United States | Department of Justice | APT1 is [Unit 61398](https://en.wikipedia.org/wiki/PLA_Unit_61398) of the Third Department of the Chinese [People’s Liberation Army](https://en.wikipedia.org/wiki/People%27s_Liberation_Army). | 19 May 2014 | [justice.gov](https://www.justice.gov/usao-wdpa/pr/us-charges-five-chinese-military-hackers-cyber-espionage-against-us-corporations-and) |
+| United States | Department of Justice | APT1 is Unit 61398 of the Third Department of the Chinese People’s Liberation Army. | 19 May 2014 | [justice.gov](https://www.justice.gov/usao-wdpa/pr/us-charges-five-chinese-military-hackers-cyber-espionage-against-us-corporations-and) |
 
 ### APT10
 
 | Attributing Country | Attributing Organisation | Attribution | Date | Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| United Kingdom | National Cyber Security Centre and Foreign, Commonwealth and Development Office | APT10 "_has an enduring relationship with the Chinese [Ministry of State Security](https://en.wikipedia.org/wiki/Ministry_of_State_Security_(China)), and operates to meet Chinese State requirements_". | 20 December 2018 | [gov.uk](https://www.gov.uk/government/news/uk-and-allies-reveal-global-scale-of-chinese-cyber-campaign) |
-| United States | Department of Justice | APT10 is Huaying Haitai Science and Technology Development Company (Huaying Haitai) and linked with the Chinese [Ministry of State Security](https://en.wikipedia.org/wiki/Ministry_of_State_Security_(China))’s Tianjin  Bureau. | 20 December 2018 | [justice.gov](https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion) |
-| Australia | Minister for Foreign Affairs | APT10 is "_acting on behalf of the [Chinese Ministry of State Security](https://en.wikipedia.org/wiki/Ministry_of_State_Security_(China))". | 21 December 2018 | [foreignminister.gov.au](https://www.foreignminister.gov.au/minister/marise-payne/media-release/attribution-chinese-cyber-enabled-commercial-intellectual-property-theft) |
+| United Kingdom | National Cyber Security Centre and Foreign, Commonwealth and Development Office | APT10 "_has an enduring relationship with the Chinese Ministry of State Security, and operates to meet Chinese State requirements_". | 20 December 2018 | [gov.uk](https://www.gov.uk/government/news/uk-and-allies-reveal-global-scale-of-chinese-cyber-campaign) |
+| United States | Department of Justice | APT10 is Huaying Haitai Science and Technology Development Company (Huaying Haitai) and linked with the Chinese Ministry of State Security’s Tianjin  Bureau. | 20 December 2018 | [justice.gov](https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion) |
+| Australia | Minister for Foreign Affairs | APT10 is "_acting on behalf of the Chinese Ministry of State Security_". | 21 December 2018 | [foreignminister.gov.au](https://www.foreignminister.gov.au/minister/marise-payne/media-release/attribution-chinese-cyber-enabled-commercial-intellectual-property-theft) |
 
 ## Iran
 
