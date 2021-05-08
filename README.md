@@ -84,4 +84,4 @@ Also known as: Sandworm team, BlackEnergy Group, Telebots, and VoodooBear.
 
 | Attributing Country | Attributing Organisation | Attribution | Date | Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| United States | Department of the Treasury | "_APT39 is [...] owned or controlled by the [Iranian government's] [MOIS](https://en.wikipedia.org/wiki/Ministry\_of\_Intelligence\_(Iran))_" | 17 September 2020 | [treasury.gov](https://home.treasury.gov/news/press-releases/sm1127) |
+| United States | Department of the Treasury | "_APT39 is [...] owned or controlled by the [Iranian government's] MOIS" | 17 September 2020 | [treasury.gov](https://home.treasury.gov/news/press-releases/sm1127) |
