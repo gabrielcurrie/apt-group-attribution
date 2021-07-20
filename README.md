@@ -14,11 +14,11 @@ Also known as: Fancy Bear, Sofacy, Pawnstorm, Sednit, STRONTIUM, and Tsar Team.
 
 | Attributing Country | Attributing Organisation | Attribution | Date | Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Estonia | [Foreign Intelligence Service](https://en.wikipedia.org/wiki/Estonian_Foreign_Intelligence_Service) | APT28 is the 6th Directorate of the GRU | 2018 | [valisluureamet.ee](https://www.valisluureamet.ee/pdf/raport-2018-ENG-web.pdf) |
-| United States | [Department of Justice](https://en.wikipedia.org/wiki/United_States_Department_of_Justice) | GRU unit 26165 is located at 22 Kirova Street in Moscow and targeted the 2016 US Presidential election. | 13 July 2018 | [justice.gov](https://www.justice.gov/file/1080281/download) |
-| United Kingdom | [National Cyber Security Centre](https://en.wikipedia.org/wiki/National_Cyber_Security_Centre_(United_Kingdom)) | APT28 is almost certainly the GRU. | 3 October 2018 | [ncsc.gov.uk](https://www.ncsc.gov.uk/news/reckless-campaign-cyber-attacks-russian-military-intelligence-service-exposed) |
-| United Kingdom | [Foreign, Commonwealth and Development Office](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office) | APT28 is GRU military unit 26165. | 4 October 2018 | [gov.uk](https://www.gov.uk/government/speeches/minister-for-europe-statement-attempted-hacking-of-the-opcw-by-russian-military-intelligence) |
-| United States | [National Security Agency](https://en.wikipedia.org/wiki/National_Security_Agency) and [FBI](https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation) | APT28 is the GRU 85th Main Special Service Center (GTsSS), military unit 26165. | 13 August 2020 | [defense.gov](https://media.defense.gov/2020/Aug/13/2002476465/-1/-1/0/CSA_DROVORUB_RUSSIAN_GRU_MALWARE_AUG_2020.PDF) |
+| Estonia | Foreign Intelligence Service | APT28 is the 6th Directorate of the GRU | 2018 | [valisluureamet.ee](https://www.valisluureamet.ee/pdf/raport-2018-ENG-web.pdf) |
+| United States | Department of Justice | GRU unit 26165 is located at 22 Kirova Street in Moscow and targeted the 2016 US Presidential election. | 13 July 2018 | [justice.gov](https://www.justice.gov/file/1080281/download) |
+| United Kingdom | National Cyber Security Centre | APT28 is almost certainly the GRU. | 3 October 2018 | [ncsc.gov.uk](https://www.ncsc.gov.uk/news/reckless-campaign-cyber-attacks-russian-military-intelligence-service-exposed) |
+| United Kingdom | Foreign, Commonwealth and Development Office | APT28 is GRU military unit 26165. | 4 October 2018 | [gov.uk](https://www.gov.uk/government/speeches/minister-for-europe-statement-attempted-hacking-of-the-opcw-by-russian-military-intelligence) |
+| United States | National Security Agency | APT28 is the GRU 85th Main Special Service Center (GTsSS), military unit 26165. | 13 August 2020 | [defense.gov](https://media.defense.gov/2020/Aug/13/2002476465/-1/-1/0/CSA_DROVORUB_RUSSIAN_GRU_MALWARE_AUG_2020.PDF) |
 
 ### APT29
 
@@ -77,6 +77,30 @@ Also known as: Sandworm team, BlackEnergy Group, Telebots, and VoodooBear.
 | United Kingdom | National Cyber Security Centre and Foreign, Commonwealth and Development Office | APT10 "_has an enduring relationship with the Chinese Ministry of State Security, and operates to meet Chinese State requirements_". | 20 December 2018 | [gov.uk](https://www.gov.uk/government/news/uk-and-allies-reveal-global-scale-of-chinese-cyber-campaign) |
 | United States | Department of Justice | APT10 is Huaying Haitai Science and Technology Development Company (Huaying Haitai) and linked with the Chinese Ministry of State Security’s Tianjin  Bureau. | 20 December 2018 | [justice.gov](https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion) |
 | Australia | Minister for Foreign Affairs | APT10 is "_acting on behalf of the Chinese Ministry of State Security_". | 21 December 2018 | [foreignminister.gov.au](https://www.foreignminister.gov.au/minister/marise-payne/media-release/attribution-chinese-cyber-enabled-commercial-intellectual-property-theft) |
+
+### APT31
+
+Also known as: Judgement Panda, Zirconium, Red Keres.
+
+| Attributing Country | Attributing Organisation | Attribution | Date | Source |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| United Kingdom | National Cyber Security Centre and Foreign, Commonwealth and Development Office | "_NCSC judge it is almost certain that APT31 is affiliated to the Chinese State and likely that APT31 is a group of contractors working directly for the Chinese Ministry of State Security._" | 19 July 2021 | [gov.uk](https://www.gov.uk/government/news/uk-and-allies-hold-chinese-state-responsible-for-a-pervasive-pattern-of-hacking) |
+
+### APT40
+
+Also known as: BRONZE, MOHAWK, FEVERDREAM, G0065, Gadolinium, GreenCrash, Hellsing, Kryptonite Panda, Leviathan, Mudcarp, Periscope, Temp.Periscope and Temp.Jumper.
+
+| Attributing Country | Attributing Organisation | Attribution | Date | Source |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Canada | Global Affairs Canada | "_APT 40 almost certainly consists of elements of the Hainan State Security Department’s regional MSS office."_ APT40 is "_also publicly reported as Kryptonite Panda, TEMP.Periscope, TEMP.Jumper, Bronze Mohawk, Leviathan, Mudcarp._" | 19 July 2021 | [canada.ca](https://www.canada.ca/en/global-affairs/news/2021/07/statement-on-chinas-cyber-campaigns.html)
+| United Kingdom | National Cyber Security Centre and Foreign, Commonwealth and Development Office | "_NCSC judge it is highly likely that APT40 is linked to the Chinese Ministry of State Security and operates to key Chinese State Intelligence requirements. NCSC judge that APT40 is highly likely sponsored by the regional MSS security office, the MSS Hainan State Security Department (HSSD)._" | 19 July 2021 | [gov.uk](https://www.gov.uk/government/news/uk-and-allies-hold-chinese-state-responsible-for-a-pervasive-pattern-of-hacking) |
+| Unites States | Department of Justice | Activity by "_Officers in the Hainan State Security Department (HSSD), a provincial arm of China’s Ministry of State Security (MSS)... had been previously identified by private sector security researchers, who have referred to the group as Advanced Persistent Threat (APT) 40, BRONZE, MOHAWK, FEVERDREAM, G0065, Gadolinium, GreenCrash, Hellsing, Kryptonite Panda, Leviathan, Mudcarp, Periscope, Temp.Periscope and Temp.Jumper._" | 19 July 2021 | [justice.gov](https://www.justice.gov/opa/pr/four-chinese-nationals-working-ministry-state-security-charged-global-computer-intrusion)
+
+### HAFNIUM
+
+| Attributing Country | Attributing Organisation | Attribution | Date | Source |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| United Kingdom | National Cyber Security Centre and Foreign, Commonwealth and Development Office | "_NCSC judge it highly likely that HAFNIUM is associated with the Chinese state._" | 19 July 2021 | [gov.uk](https://www.gov.uk/government/news/uk-and-allies-hold-chinese-state-responsible-for-a-pervasive-pattern-of-hacking) |
 
 ## Iran
 
