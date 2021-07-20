@@ -108,4 +108,4 @@ Also known as: BRONZE, MOHAWK, FEVERDREAM, G0065, Gadolinium, GreenCrash, Hellsi
 
 | Attributing Country | Attributing Organisation | Attribution | Date | Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| United States | Department of the Treasury | "_APT39 is [...] owned or controlled by the Iranian government's [MOIS](https://en.wikipedia.org/wiki/Ministry_of_Intelligence_(Iran))_" | 17 September 2020 | [treasury.gov](https://home.treasury.gov/news/press-releases/sm1127) |
+| United States | Department of the Treasury | "_APT39 is... owned or controlled by the Iranian government's [MOIS](https://en.wikipedia.org/wiki/Ministry_of_Intelligence_(Iran))_" | 17 September 2020 | [treasury.gov](https://home.treasury.gov/news/press-releases/sm1127) |
