@@ -62,6 +62,14 @@ Also known as: Sandworm team, BlackEnergy Group, Telebots, and VoodooBear.
 | European Union | European Union | The GRU Main Centre for Special Technologies (GTsST) has an active role in the cyber‐activities undertaken by Sandworm and can be linked to Sandworm. The GTsST is responsible for NotPetya and cyber attacks against the Ukrainian power grid. | 30 July 2020 | [europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R1125&from=EN)
 | United States | Department of Justice | Unit 74455 of the GRU is tracked by security researchers as "Sandworm Team", "Telebots", "Voodoo Bear", and "Iron Viking". | 19 October 2020 | [justice.gov](https://www.justice.gov/opa/pr/six-russian-gru-officers-charged-connection-worldwide-deployment-destructive-malware-and) |
 
+### Armageddon
+
+Also known as: Gamaredon, Primitive Bear, Winterflouder, Blue Alpha, Blue Otso, Iron Tiden, SectorC08, Callisto
+
+| Attributing Country | Attributing Organisation | Attribution | Date | Source |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Ukraine | Security Service of Ukraine | ARMAGEDON an FSB special project, which specifically targeted Ukraine, coordinated by the FSB’s 18th Center (Information Security Center) based in Moscow. | 4 November 2021 | [ssu.gov.ua](https://ssu.gov.ua/en/novyny/sbu-vstanovyla-khakeriv-fsb-yaki-zdiisnyly-ponad-5-tys-kiberatak-na-derzhavni-orhany-ukrainy) |
+
 ## China
 
 ### APT1
