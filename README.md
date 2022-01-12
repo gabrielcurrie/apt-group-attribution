@@ -124,4 +124,4 @@ Also known as: Earth Vetala, Static Kitten, Seedworm, TEMP.Zagros, Yellow Nix.
 
 | Attributing Country | Attributing Organisation | Attribution | Date | Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| United States | US Cyber Command | "_MOIS hacker group MuddyWater..." | 12 January 2022 | [twitter.com](https://twitter.com/CNMF_CyberAlert/status/1481341952247349248) |
+| United States | US Cyber Command | "_MOIS hacker group MuddyWater..._" | 12 January 2022 | [twitter.com](https://twitter.com/CNMF_CyberAlert/status/1481341952247349248) |
