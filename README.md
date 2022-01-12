@@ -49,7 +49,7 @@ Also known as: Snake and Uroburos.
 
 ### Sandworm
 
-Also known as: Sandworm team, BlackEnergy Group, Telebots, and VoodooBear.
+Also known as: BlackEnergy Group, Sandworm team, Telebots, and VoodooBear.
 
 | Attributing Country | Attributing Organisation | Attribution | Date | Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -64,7 +64,7 @@ Also known as: Sandworm team, BlackEnergy Group, Telebots, and VoodooBear.
 
 ### Armageddon
 
-Also known as: Gamaredon, Primitive Bear, Winterflouder, Blue Alpha, Blue Otso, Iron Tiden, SectorC08, Callisto
+Also known as: Blue Alpha, Blue Otso, Callisto, Gamaredon, Iron Tiden, Primitive Bear, SectorC08, Winterflouder.
 
 | Attributing Country | Attributing Organisation | Attribution | Date | Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -88,7 +88,7 @@ Also known as: Gamaredon, Primitive Bear, Winterflouder, Blue Alpha, Blue Otso, 
 
 ### APT31
 
-Also known as: Judgement Panda, Zirconium, Red Keres.
+Also known as: Judgement Panda, Red Keres, Zirconium.
 
 | Attributing Country | Attributing Organisation | Attribution | Date | Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -96,7 +96,7 @@ Also known as: Judgement Panda, Zirconium, Red Keres.
 
 ### APT40
 
-Also known as: BRONZE, MOHAWK, FEVERDREAM, G0065, Gadolinium, GreenCrash, Hellsing, Kryptonite Panda, Leviathan, Mudcarp, Periscope, Temp.Periscope and Temp.Jumper.
+Also known as: BRONZE, FEVERDREAM, G0065, Gadolinium, GreenCrash, Hellsing, Kryptonite Panda, Leviathan, MOHAWK, Mudcarp, Periscope, TEMP.Periscope and TEMP.Jumper.
 
 | Attributing Country | Attributing Organisation | Attribution | Date | Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -117,3 +117,11 @@ Also known as: BRONZE, MOHAWK, FEVERDREAM, G0065, Gadolinium, GreenCrash, Hellsi
 | Attributing Country | Attributing Organisation | Attribution | Date | Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | United States | Department of the Treasury | "_APT39 is... owned or controlled by the Iranian government's [MOIS](https://en.wikipedia.org/wiki/Ministry_of_Intelligence_(Iran))_" | 17 September 2020 | [treasury.gov](https://home.treasury.gov/news/press-releases/sm1127) |
+
+### MuddyWater
+
+Also known as: Earth Vetala, Static Kitten, Seedworm, TEMP.Zagros, Yellow Nix.
+
+| Attributing Country | Attributing Organisation | Attribution | Date | Source |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| United States | US Cyber Command | "_MOIS hacker group MuddyWater..." | 12 January 2022 | [twitter.com](https://twitter.com/CNMF_CyberAlert/status/1481341952247349248) |
