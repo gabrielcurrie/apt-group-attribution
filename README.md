@@ -70,6 +70,15 @@ Also known as: Blue Alpha, Blue Otso, Callisto, Gamaredon, Iron Tiden, Primitive
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Ukraine | Security Service of Ukraine | ARMAGEDON an FSB special project, which specifically targeted Ukraine, coordinated by the FSB’s 18th Center (Information Security Center) based in Moscow. | 4 November 2021 | [ssu.gov.ua](https://ssu.gov.ua/en/novyny/sbu-vstanovyla-khakeriv-fsb-yaki-zdiisnyly-ponad-5-tys-kiberatak-na-derzhavni-orhany-ukrainy) |
 
+### Dragonfly
+
+Also known as: Berserk Bear, Energetic Bear, and Crouching Yeti.
+
+| Attributing Country | Attributing Organisation | Attribution | Date | Source |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| United States | Department of Justice | "_Military Unit 71330 or “Center 16” of the FSB_" is "_known among cybersecurity researchers as “Dragonfly,” “Berzerk Bear,” “Energetic Bear,” and “Crouching Yeti._”. | 24 March 2022 | [justice.gov](https://www.justice.gov/opa/pr/four-russian-government-employees-charged-two-historical-hacking-campaigns-targeting-critical) |
+| United Kingdom | Foreign Commonwealth and Development Office | "_It is almost certain that the FSB’s Centre 16 are also known by their hacker group pseudonyms of ‘Energetic Bear’, ‘Berserk Bear’ and ‘Crouching Yeti’_" | 24 March 2022 | [gov.uk](https://www.gov.uk/government/news/uk-exposes-russian-spy-agency-behind-cyber-incidents)
+
 ## China
 
 ### APT1
