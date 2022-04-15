@@ -5,6 +5,7 @@ This repository tracks public statements by Governments on the attribution of st
 * [Russia](#Russia) 
 * [China](#China)
 * [Iran](#Iran)
+* [North Korea](#North Korea)
 
 ## Russia
 
@@ -134,3 +135,14 @@ Also known as: Earth Vetala, Static Kitten, Seedworm, TEMP.Zagros, Yellow Nix.
 | Attributing Country | Attributing Organisation | Attribution | Date | Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | United States | US Cyber Command | "_MOIS hacker group MuddyWater..._" | 12 January 2022 | [twitter.com](https://twitter.com/CNMF_CyberAlert/status/1481341952247349248) |
+| United States | CISA | "_MuddyWater is a subordinate element within the Iranian Ministry of Intelligence and Security (MOIS)_" | 12 January 2022 | [cisa.gov](https://www.cisa.gov/uscert/ncas/alerts/aa22-055a) |
+
+## North Korea
+
+### Lazarus Group
+
+Also known as: APT38.
+
+| Attributing Country | Attributing Organisation | Attribution | Date | Source |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| United States | Department of Justice | "_units of the Reconnaissance General Bureau (RGB) [...] are known by multiple names in the cybersecurity community, including Lazarus Group and Advanced Persistent Threat 38 (APT38)_" | 17 February 2021 | [justice.gov](https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and) |
