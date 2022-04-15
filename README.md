@@ -5,7 +5,7 @@ This repository tracks public statements by Governments on the attribution of st
 * [Russia](#Russia) 
 * [China](#China)
 * [Iran](#Iran)
-* [North Korea](#North Korea)
+* [North Korea](#North_Korea)
 
 ## Russia
 
