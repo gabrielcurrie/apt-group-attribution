@@ -11,7 +11,7 @@ This repository tracks public statements by Governments on the attribution of st
 
 ### APT28
 
-Also known as: Fancy Bear, Sofacy, Pawnstorm, Sednit, STRONTIUM, and Tsar Team.
+Also known as: Group 74, Iron Twilight, PawnStorm, Sednit, SNAKEMACKEREL, Sofacy, STRONTIUM, Swallowtail, TG-4127, Threat Group-4127, and Tsar Team.
 
 | Attributing Country | Attributing Organisation | Attribution | Date | Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -23,7 +23,7 @@ Also known as: Fancy Bear, Sofacy, Pawnstorm, Sednit, STRONTIUM, and Tsar Team.
 
 ### APT29
 
-Also known as: Cozy Bear and the Dukes.
+Also known as: Cozy Bear, CozyDuke, Dark Halo, The Dukes, NOBELIUM, NobleBaron, StellarParticle, UNC2452, and YTTRIUM.
 
 | Attributing Country | Attributing Organisation | Attribution | Date | Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -50,7 +50,7 @@ Also known as: Snake and Uroburos.
 
 ### Sandworm
 
-Also known as: BlackEnergy Group, Sandworm team, Telebots, and VoodooBear.
+Also known as: BlackEnergy Group, ELECTRUM, Iron Viking, Quedagh, Sandworm Team, Telebots, and Voodoo Bear.
 
 | Attributing Country | Attributing Organisation | Attribution | Date | Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -65,7 +65,7 @@ Also known as: BlackEnergy Group, Sandworm team, Telebots, and VoodooBear.
 
 ### Armageddon
 
-Also known as: Blue Alpha, Blue Otso, Callisto, Gamaredon, Iron Tiden, Primitive Bear, SectorC08, Winterflouder.
+Also known as: Blue Alpha, Blue Otso, Callisto, Gamaredon, Iron Tiden, Primitive Bear, SectorC08, and Winterflouder.
 
 | Attributing Country | Attributing Organisation | Attribution | Date | Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -73,12 +73,21 @@ Also known as: Blue Alpha, Blue Otso, Callisto, Gamaredon, Iron Tiden, Primitive
 
 ### Dragonfly
 
-Also known as: Berserk Bear, Energetic Bear, and Crouching Yeti.
+Also known as: Berserk Bear, Crouching Yeti, Energetic Bear, and Temp.Isotope.
 
 | Attributing Country | Attributing Organisation | Attribution | Date | Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | United States | Department of Justice | "_Military Unit 71330 or “Center 16” of the FSB_" is "_known among cybersecurity researchers as “Dragonfly,” “Berzerk Bear,” “Energetic Bear,” and “Crouching Yeti._”. | 24 March 2022 | [justice.gov](https://www.justice.gov/opa/pr/four-russian-government-employees-charged-two-historical-hacking-campaigns-targeting-critical) |
 | United Kingdom | Foreign Commonwealth and Development Office | "_It is almost certain that the FSB’s Centre 16 are also known by their hacker group pseudonyms of ‘Energetic Bear’, ‘Berserk Bear’ and ‘Crouching Yeti’_" | 24 March 2022 | [gov.uk](https://www.gov.uk/government/news/uk-exposes-russian-spy-agency-behind-cyber-incidents)
+| United States | CISA | "_BERSERK BEAR (also known as Crouching Yeti, Dragonfly, Energetic Bear, and Temp.Isotope) [...] is almost certainly FSB’s Center 16, or Military Unit 71330_" | 26 April 2022 | [cisa.gov](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
+
+### Temp.Veles
+
+Also known as: XENOTIME.
+
+| Attributing Country | Attributing Organisation | Attribution | Date | Source |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| United States | CISA | The "_Russian Ministry of Defense, Central Scientific Institute of Chemistry and Mechanics_" (or "_TsNIIKhM_") is also known as "_Temp.Veles, XENOTIME_”. | 24 March 2022 | [justice.gov](https://www.justice.gov/opa/pr/four-russian-government-employees-charged-two-historical-hacking-campaigns-targeting-critical) |
 
 ## China
 
