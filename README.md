@@ -113,6 +113,18 @@ Also known as: Callisto Group, TA446, COLDRIVER, TAG-53.
 | United States | Department of Justice | APT10 is Huaying Haitai Science and Technology Development Company (Huaying Haitai) and linked with the Chinese Ministry of State Security’s Tianjin  Bureau. | 20 December 2018 | [justice.gov](https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion) |
 | Australia | Minister for Foreign Affairs | APT10 is "_acting on behalf of the Chinese Ministry of State Security_". | 21 December 2018 | [foreignminister.gov.au](https://www.foreignminister.gov.au/minister/marise-payne/media-release/attribution-chinese-cyber-enabled-commercial-intellectual-property-theft) |
 
+### APT27
+
+| Attributing Country | Attributing Organisation | Attribution | Date | Source |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Belgium | Minister for Foreign Affairs | "_Advanced Persistent Threat 27_" is one of a number of "_Chinese Advanced Persistent Threats_" targeting Belgium. | 18 July 2022 | [diplomatie.belgium.be](https://diplomatie.belgium.be/en/news/declaration-minister-foreign-affairs-malicious-cyber-activities) |
+
+### APT30
+
+| Attributing Country | Attributing Organisation | Attribution | Date | Source |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Belgium | Minister for Foreign Affairs | "_Advanced Persistent Threat 30_" is one of a number of "_Chinese Advanced Persistent Threats_" targeting Belgium. | 18 July 2022 | [diplomatie.belgium.be](https://diplomatie.belgium.be/en/news/declaration-minister-foreign-affairs-malicious-cyber-activities) |
+
 ### APT31
 
 Also known as: Judgement Panda, Red Keres, Zirconium.
@@ -120,6 +132,7 @@ Also known as: Judgement Panda, Red Keres, Zirconium.
 | Attributing Country | Attributing Organisation | Attribution | Date | Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | United Kingdom | National Cyber Security Centre and Foreign, Commonwealth and Development Office | "_NCSC judge it is almost certain that APT31 is affiliated to the Chinese State and likely that APT31 is a group of contractors working directly for the Chinese Ministry of State Security._" | 19 July 2021 | [gov.uk](https://www.gov.uk/government/news/uk-and-allies-hold-chinese-state-responsible-for-a-pervasive-pattern-of-hacking) |
+| Belgium | Minister for Foreign Affairs | "_Advanced Persistent Threat 31_" is one of a number of "_Chinese Advanced Persistent Threats_" targeting Belgium. | 18 July 2022 | [diplomatie.belgium.be](https://diplomatie.belgium.be/en/news/declaration-minister-foreign-affairs-malicious-cyber-activities) |
 
 ### APT40
 
@@ -130,6 +143,14 @@ Also known as: BRONZE, FEVERDREAM, G0065, Gadolinium, GreenCrash, Hellsing, Kryp
 | Canada | Global Affairs Canada | "_APT 40 almost certainly consists of elements of the Hainan State Security Department’s regional MSS office."_ APT40 is "_also publicly reported as Kryptonite Panda, TEMP.Periscope, TEMP.Jumper, Bronze Mohawk, Leviathan, Mudcarp._" | 19 July 2021 | [canada.ca](https://www.canada.ca/en/global-affairs/news/2021/07/statement-on-chinas-cyber-campaigns.html)
 | United Kingdom | National Cyber Security Centre and Foreign, Commonwealth and Development Office | "_NCSC judge it is highly likely that APT40 is linked to the Chinese Ministry of State Security and operates to key Chinese State Intelligence requirements. NCSC judge that APT40 is highly likely sponsored by the regional MSS security office, the MSS Hainan State Security Department (HSSD)._" | 19 July 2021 | [gov.uk](https://www.gov.uk/government/news/uk-and-allies-hold-chinese-state-responsible-for-a-pervasive-pattern-of-hacking) |
 | Unites States | Department of Justice | Activity by "_Officers in the Hainan State Security Department (HSSD), a provincial arm of China’s Ministry of State Security (MSS)... had been previously identified by private sector security researchers, who have referred to the group as Advanced Persistent Threat (APT) 40, BRONZE, MOHAWK, FEVERDREAM, G0065, Gadolinium, GreenCrash, Hellsing, Kryptonite Panda, Leviathan, Mudcarp, Periscope, Temp.Periscope and Temp.Jumper._" | 19 July 2021 | [justice.gov](https://www.justice.gov/opa/pr/four-chinese-nationals-working-ministry-state-security-charged-global-computer-intrusion)
+
+### GALLIUM
+
+Also known as: UNC2814, GALLIUM, SOFTCELL
+
+| Attributing Country | Attributing Organisation | Attribution | Date | Source |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Belgium | Minister for Foreign Affairs | "_UNC 2814/GALLIUM/SOFTCELL_" is one of a number of "_Chinese Advanced Persistent Threats_" targeting Belgium. | 18 July 2022 | [diplomatie.belgium.be](https://diplomatie.belgium.be/en/news/declaration-minister-foreign-affairs-malicious-cyber-activities) |
 
 ### HAFNIUM
 
