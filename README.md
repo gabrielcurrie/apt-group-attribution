@@ -89,13 +89,14 @@ Also known as: XENOTIME.
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | United States | Cybersecurity and Infrastructure Security Agency | The "_Russian Ministry of Defense, Central Scientific Institute of Chemistry and Mechanics_" (or "_TsNIIKhM_") is also known as "_Temp.Veles, XENOTIME_”. | 24 March 2022 | [justice.gov](https://www.justice.gov/opa/pr/four-russian-government-employees-charged-two-historical-hacking-campaigns-targeting-critical) |
 
-### Seaborgium
+### Star Blizzard
 
-Also known as: Callisto Group, TA446, COLDRIVER, TAG-53.
+Also known as: SEABORGIUM, Callisto Group, TA446, COLDRIVER, TAG-53, BlueCharlie.
 
 | Attributing Country | Attributing Organisation | Attribution | Date | Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| United Kingdom | National Cyber Security Centre | SEABORGIUM is "Russia-based". | 26 January 2023 | [ncsc.gov.uk](https://www.ncsc.gov.uk/news/spear-phishing-campaigns-targets-of-interest) |
+| United Kingdom | National Cyber Security Centre | SEABORGIUM is "_Russia-based_". | 26 January 2023 | [ncsc.gov.uk](https://www.ncsc.gov.uk/news/spear-phishing-campaigns-targets-of-interest) |
+| United Kingdom | National Cyber Security Centre | "_Star Blizzard [...] is almost certainly subordinate to Centre 18 of Russia’s Federal Security Service (FSB)_" | 7 Decembver 2023 | [ncsc.gov.uk](https://www.ncsc.gov.uk/news/uk-and-allies-expose-cyber-campaign-attempted-political-interference)
 
 ## China
 
