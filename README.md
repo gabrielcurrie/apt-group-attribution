@@ -142,6 +142,8 @@ Also known as: Judgement Panda, Red Keres, Zirconium.
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | United Kingdom | National Cyber Security Centre and Foreign, Commonwealth and Development Office | "_NCSC judge it is almost certain that APT31 is affiliated to the Chinese State and likely that APT31 is a group of contractors working directly for the Chinese Ministry of State Security._" | 19 July 2021 | [gov.uk](https://www.gov.uk/government/news/uk-and-allies-hold-chinese-state-responsible-for-a-pervasive-pattern-of-hacking) |
 | Belgium | Minister for Foreign Affairs | "_Advanced Persistent Threat 31_" is one of a number of "_Chinese Advanced Persistent Threats_" targeting Belgium. | 18 July 2022 | [diplomatie.belgium.be](https://diplomatie.belgium.be/en/news/declaration-minister-foreign-affairs-malicious-cyber-activities) |
+| United States | Department of Justice | "_APT31 Group was part of a cyberespionage program run by the MSS’s Hubei State Security Department, located in the city of Wuhan_" | 25 March 2024 | [treasury.gov](https://home.treasury.gov/news/press-releases/jy2205)
+| United States | Department of the Treasury | "_APT 31 is a collection of Chinese state-sponsored intelligence officers, contract hackers, and support staff that conduct malicious cyber operations on behalf of the Hubei State Security Department (HSSD)_" | 25 March 2024 | [justice.gov](https://www.justice.gov/opa/pr/seven-hackers-associated-chinese-government-charged-computer-intrusions-targeting-perceived)
 
 ### APT40
 
