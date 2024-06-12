@@ -1,6 +1,6 @@
 # APT Group Attribution
 
-This repository tracks public statements by Governments on the attribution of state-sponsored hacking incidents or groups.
+This repository tracks public statements by Governments and international organisations on the attribution of state-sponsored hacking incidents or groups.
 
 * [Russia](#Russia) 
 * [China](#China)
@@ -20,6 +20,9 @@ Also known as: Group 74, Iron Twilight, PawnStorm, Sednit, SNAKEMACKEREL, Sofacy
 | United Kingdom | National Cyber Security Centre | APT28 is almost certainly the GRU. | 3 October 2018 | [ncsc.gov.uk](https://webarchive.nationalarchives.gov.uk/ukgwa/20231123135522/https://www.ncsc.gov.uk/news/reckless-campaign-cyber-attacks-russian-military-intelligence-service-exposed) |
 | United Kingdom | Foreign, Commonwealth and Development Office | APT28 is GRU military unit 26165. | 4 October 2018 | [gov.uk](https://www.gov.uk/government/speeches/minister-for-europe-statement-attempted-hacking-of-the-opcw-by-russian-military-intelligence) |
 | United States | National Security Agency, Federal Bureau of Investigation | APT28 is the GRU 85th Main Special Service Center (GTsSS), military unit 26165. | 13 August 2020 | [defense.gov](https://media.defense.gov/2020/Aug/13/2002476465/-1/-1/0/CSA_DROVORUB_RUSSIAN_GRU_MALWARE_AUG_2020.PDF) |
+| Germany | Federal Government | "_The actor APT28 has been attributed to the Russian Federation, and more specifically to the Russian military intelligence service GRU._" | 3 May 2024 | [bundesregierung.de](https://www.bundesregierung.de/resource/blob/975226/2276130/ec59e50158ff9ba014025ba5abbfe6ec/2024-05-03-attribution-of-a-russian-cyber-campaign-data.pdf)
+| Czechia | Ministry of Foreign Affairs | "_APT28 is associated with Russian military intelligence service GRU._" | 3 May 2024 | [mzv.gov.cz](https://mzv.gov.cz/jnp/en/issues_and_press/press_releases/statement_of_the_mfa_on_the_cyberattacks.html)
+| European Union | High Representative | APT28 is "_Russia-controlled_" | 3 May 2024 | [europa.eu](https://www.consilium.europa.eu/en/press/press-releases/2024/05/03/cyber-statement-by-the-high-representative-on-behalf-of-the-eu-on-continued-malicious-behaviour-in-cyberspace-by-the-russian-federation/)
 
 ### APT29
 
@@ -119,7 +122,7 @@ Also known as: SEABORGIUM, Callisto Group, TA446, COLDRIVER, TAG-53, BlueCharlie
 | Attributing Country | Attributing Organisation | Attribution Narrative | Date | Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | United Kingdom | National Cyber Security Centre and Foreign, Commonwealth and Development Office | APT10 "_has an enduring relationship with the Chinese Ministry of State Security, and operates to meet Chinese State requirements_". | 20 December 2018 | [gov.uk](https://www.gov.uk/government/news/uk-and-allies-reveal-global-scale-of-chinese-cyber-campaign) |
-| United States | Department of Justice | APT10 is Huaying Haitai Science and Technology Development Company (Huaying Haitai) and linked with the Chinese Ministry of State Security’s Tianjin  Bureau. | 20 December 2018 | [justice.gov](https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion) |
+| United States | Department of Justice | Members of APT10 "_worked for a company in China called Huaying Haitai Science and Technology Development Company (Huaying Haitai) and acted in association with the Chinese Ministry of State Security’s Tianjin State Security Bureau_" | 20 December 2018 | [justice.gov](https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion) |
 | Australia | Minister for Foreign Affairs | APT10 is "_acting on behalf of the Chinese Ministry of State Security_". | 21 December 2018 | [foreignminister.gov.au](https://www.foreignminister.gov.au/minister/marise-payne/media-release/attribution-chinese-cyber-enabled-commercial-intellectual-property-theft) |
 
 ### APT27
