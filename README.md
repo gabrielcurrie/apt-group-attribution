@@ -5,7 +5,7 @@ This repository tracks public statements by Governments and international organi
 * [Russia](#Russia) 
 * [China](#China)
 * [Iran](#Iran)
-* [North Korea](#North_Korea)
+* [North Korea](#north-korea)
 
 ## Russia
 
@@ -215,3 +215,13 @@ Also known as: APT38.
 | Attributing Country | Attributing Organisation | Attribution Narrative | Date | Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | United States | Department of Justice | "_units of the Reconnaissance General Bureau (RGB) [...] are known by multiple names in the cybersecurity community, including Lazarus Group and Advanced Persistent Threat 38 (APT38)_" | 17 February 2021 | [justice.gov](https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and) |
+
+### Andariel
+
+Also known as: Andariel, Onyx Sleet, PLUTONIUM, DarkSeoul, Silent Chollima, Stonefly/Clasiopa.
+
+| Attributing Country | Attributing Organisation | Attribution Narrative | Date | Source |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| United Kingdom | National Cyber Security Centre | "_Andariel is a part of DPRK’s Reconnaissance General Bureau (RGB) 3rd Bureau_" | 25 July 2024 | [ncsc.gov.uk](https://www.ncsc.gov.uk/news/ncsc-partners-vigilant-dprk-sponsored-cyber-campaign) |
+| United States | Cyber National Mission Force, Cybersecurity and Infrastructure Security Agency, Department of Defense Cyber Crime Center, National Security Agency | "_Andariel (also known as Onyx Sleet, formerly PLUTONIUM, DarkSeoul, Silent Chollima, and Stonefly/Clasiopa) is a North Korean state-sponsored cyber group, under the RGB 3rd Bureau, based in Pyongyang and Sinuiju._" | 25 July 2024 | [ic3.gov](https://www.ic3.gov/Media/News/2024/240725.pdf) |
+| Republic of Korea | National Intelligence Service | "_Andariel (also known as Onyx Sleet, formerly PLUTONIUM, DarkSeoul, Silent Chollima, and Stonefly/Clasiopa) is a North Korean state-sponsored cyber group, under the RGB 3rd Bureau, based in Pyongyang and Sinuiju._" | 25 July 2024 | [ic3.gov](https://www.ic3.gov/Media/News/2024/240725.pdf) |
