@@ -109,6 +109,14 @@ Also known as: SEABORGIUM, Callisto Group, TA446, COLDRIVER, TAG-53, BlueCharlie
 | Australia | National Security Agency | Star Blizzard "_is an organization with links to the Russian Federal Security Service (FSB)_" | 7 December 2023 | [cyber.gov.au](https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories/russian-fsb-cyber-actor-star-blizzard-continues-worldwide-spear-phishing-campaigns) |
 | New Zealand | National Cyber Security Centre | "_Star Blizzard is almost certainly subordinate to the Russian Federal Security Service (FSB) Centre 18_" | 8 December 2023 | [ncsc.govt.nz](https://www.ncsc.govt.nz/news/global-spear-phishing-campaigns/) |
 
+### Cadet Blizzard
+
+Also known as: DEV-0586, Ember Bear, Bleeding Bear, Frozenvista, UNC2589, UAC-0056
+
+| Attributing Country | Attributing Organisation | Attribution Narrative | Date | Source |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| United Kingdom | National Cyber Security Centre | "_The cybersecurity industry provides overlapping cyber threat intelligence, IOCs, and mitigation recommendations related to Unit 29155 cyber actors. While not all encompassing, the following are the most notable threat group names related under MITRE ATT&CK G1003 and commonly used within the cybersecurity community: Cadet Blizzard (formerly known as DEV-0586 by Microsoft), Ember Bear (also known as Bleeding Bear by CrowdStrike), Frozenvista, UNC2589, UAC-0056_" | 5 September 2024 | [cisa.gov](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-249a) |
+
 ## China
 
 ### APT1
