@@ -191,6 +191,14 @@ Also known as: Insidious Taurus, Bronze Silhouette
 | United States | Cybersecurity and Infrastructure Security Agency | Volt Typhoon is "_People’s Republic of China (PRC) state-sponsored_". | 24 May 2023 | [cisa.gov](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-144a) |
 | Australia | ACSC | Volt Typhoon is "_People’s Republic of China (PRC) state-sponsored_". | 25 May 2023 | [cyber.gov.au](https://www.cyber.gov.au/about-us/alerts/prc-state-sponsored-cyber-actor-living-off-the-land-to-evade-detection) |
 
+### Salt Typhoon
+
+Also known as: Operator Panda, RedMike, UNC5807, GhostEmperor
+
+| Attributing Country | Attributing Organisation | Attribution Narrative | Date | Source |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| United Kingdom | National Cyber Security Centre | "_The APT actors have been performing malicious operations globally since at least 2021. These operations have been linked to multiple China-based entities, including at least Sichuan Juxinhe Network Technology Co. Ltd. (四川聚信和网络科技有限公司), Beijing Huanyu Tianqiong Information Technology Co., Ltd. (北京寰宇天穹信息技术有限公司), and Sichuan Zhixin Ruijie Network Technology Co., Ltd. (四川智信锐捷网络科技有限公司). These companies provide cyber-related products and services to China’s intelligence services, including multiple units in the People’s Liberation Army and Ministry of State Security._" | 22 August 2025 | [defense.gov](https://media.defense.gov/2025/Aug/22/2003786665/-1/-1/0/CSA_COUNTERING_CHINA_STATE_ACTORS_COMPROMISE_OF_NETWORKS.PDF)
+
 ## Iran
 
 ### APT39
